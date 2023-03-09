@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Work\Work8\bin\Debug\net7.0\Work8.exe
+C:\Users\User\Desktop\Work\Work8\bin\Debug\net7.0\Work8.deps.json
+C:\Users\User\Desktop\Work\Work8\bin\Debug\net7.0\Work8.runtimeconfig.json
+C:\Users\User\Desktop\Work\Work8\bin\Debug\net7.0\Work8.dll
+C:\Users\User\Desktop\Work\Work8\bin\Debug\net7.0\Work8.pdb
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.dll
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\refint\Work8.dll
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.pdb
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\Work8.genruntimeconfig.cache
+C:\Users\User\Desktop\Work\Work8\obj\Debug\net7.0\ref\Work8.dll
